@@ -9,6 +9,9 @@
    # 安装某个版本的 typescript
    npm install -d typescript (也可以安装到全局)
    npm install -d ts-node (非必需，也可以安装到全局)
+   
+   # 安装 node 类型
+   npm install -d @types/node
    ```
 
 2. 初始化 ts 
