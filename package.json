@@ -6,13 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "ts-node main.ts",
-    "tsc": "tsc",
-    "ts-node": "ts-node main.ts"
+    "build": "tsc"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^20.8.9"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5"
   }
 }
